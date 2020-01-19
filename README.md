@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages for Macklin Yarris' Github practice
+## Macklin Yarris' Github practice
 
 **Bold** and _Italic_ and `Code` text
 
